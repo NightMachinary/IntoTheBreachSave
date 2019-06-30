@@ -1,0 +1,62 @@
+Into the Breach: 1.0.06 (2-26-2018)
+Initializing Video
+Video Initialized
+Opengl version = 2.1 INTEL-10.30.14
+Initializing GOG API
+Creating Lua Environment
+loading 98 scripts
+user/missionData.lua doesn't exist!
+Lua Initialized
+Starting audio library...
+Loading resources...
+Resource Preload: 3881.780
+Saved settings
+Mouse initialization...
+Loading map data...
+loading 0 scripts
+Initializing ImGui...
+Running Game!
+SDL Error: Couldn't open C:\users\crossover\My Documents\My Games\Into The Breach\console_log.txt
+Generating world...
+Saved settings
+OnWindowResize 1280, 800
+
+
+Toggling Fullscreen!
+OnWindowMaximize()
+After max, window size = 1280,800
+
+
+Toggling Fullscreen!
+OnWindowResize 1280, 800
+
+
+Toggling Fullscreen!
+OnWindowMaximize()
+After max, window size = 1280,800
+Saved settings
+Saved settings
+
+
+New Random Squad
+
+Picking mech TankMech, class Brute, weapons 1
+Picking mech ArtiMech, class Ranged, weapons 1
+Picking mech PunchMech, class Prime, weapons 1
+Loading map file: mix7
+Loading map file: grass7
+Loading map file: tutorial
+Board enemy starting
+Unknown Event: event:/impact/general
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(282): FMOD error 30 - An invalid object handle was used. 
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(284): FMOD error 30 - An invalid object handle was used. 
+Unknown Event: event:/impact/general
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(282): FMOD error 30 - An invalid object handle was used. 
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(284): FMOD error 30 - An invalid object handle was used. 
+Unknown Event: event:/attack
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(282): FMOD error 30 - An invalid object handle was used. 
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(284): FMOD error 30 - An invalid object handle was used. 
+Unknown Event: event:/impact/general
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(282): FMOD error 30 - An invalid object handle was used. 
+..\..\DevTools\SubsetEngine\Utilities\SoundControl.cpp(284): FMOD error 30 - An invalid object handle was used. 
+Saved settings
